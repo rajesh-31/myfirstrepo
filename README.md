@@ -1,4 +1,4 @@
 # myfirstrepo
 
 today practice class
-today 20june and 2nd practice class
+today dec16 and execute concurrent builds if neccessary practice class
